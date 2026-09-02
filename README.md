@@ -90,7 +90,7 @@
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://github.com/RashidAyub"/>
+<img src= "https://github.com/RashidAyub"/>
 </a>
 
 <a href="mailto:YOUR-EMAIL@example.com">
