@@ -89,8 +89,8 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src= "https://github.com/RashidAyub"/>
+<a href="https://www.linkedin.com/in/rashid-ayub/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR-EMAIL@example.com">
