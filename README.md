@@ -89,7 +89,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rashid-ayub/" target="_blank">
+<a href="https://www.linkedin.com/in/rashid-ayub-8284b4299" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
