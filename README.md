@@ -90,7 +90,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/rashid-ayub-8284b4299" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://www.google.com/imgres?q=linkedin%20image%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1384%2F1384014.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_1384014&docid=xnw7F2z2WmzK8M&tbnid=_bo52tBeM9Im7M&vet=12ahUKEwijt9qH7JiXAxURhf0HHU6KCb4QnPAOegUIiQEQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwijt9qH7JiXAxURhf0HHU6KCb4QnPAOegUIiQEQAA" />
 </a>
 
 <a href="mailto:YOUR-EMAIL@example.com">
